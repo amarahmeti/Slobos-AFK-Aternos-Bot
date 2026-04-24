@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "malzii7-GECb.aternos.me:48493",
+    "ip": "malzii7-GECb.aternos.me",
     "port": 48493,
     "version": "",
     "try-creative": false
