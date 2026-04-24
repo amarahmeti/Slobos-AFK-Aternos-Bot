@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Avdush",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "kush ec o gej",
+        "avdush kingi",
+        "diar mos ma kruj bolen"
       ]
     },
     "chat-log": true,
